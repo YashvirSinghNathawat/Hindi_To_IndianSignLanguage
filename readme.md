@@ -2,7 +2,7 @@
 # CS 689A Project - Hindi To Indian Sign Language: Rule-Based Translation System
 ### Done by
 1. Yashvir Singh Nathawat(231110059)
-2. Karthik Jain (231110023)
+2. Kartik Jain (231110023)
 3. Aditya Katare (231110005)
 
 ### Project Workflow

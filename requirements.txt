@@ -1,0 +1,8 @@
+stanza
+nlp
+pandas
+pyiwn
+nltk
+spacy
+googletrans==4.0.0-rc1
+moviepy
